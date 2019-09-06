@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background: $lightBlue;
+  padding: 1rem;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav-item {
+  margin: 0 1rem;
+}
